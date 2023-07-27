@@ -12,6 +12,7 @@ In conclusion, the detection of plant diseases is an important aspect of agricul
 https://www.kaggle.com/datasets/sadmansakibmahi/plant-disease-expert 
 
 potato classes :
+
   1000  images : Potato___Late_blight.
   
   1000  images : Potato___Early_blight.
